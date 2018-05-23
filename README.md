@@ -31,3 +31,5 @@ SQLite-Data-addition-and-Data-retrieval is a mobile app that was built in java/a
      https://github.com/ivanatu/SQLite-Data-addition-and-Data-retrieval-
   2. Video link
      https://www.youtube.com/watch?v=V33w0-WCmys&feature=youtu.be
+  3. tutorial and notes created 
+     https://docs.google.com/document/d/1zOiLfEwgUm8SVBXS5ky02J4RI8YGR-ZjW-7vFVUFBG0/edit
